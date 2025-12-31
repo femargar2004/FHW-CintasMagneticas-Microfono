@@ -56,3 +56,40 @@ Micrófono USB
 Micrófono inalámbrico
 
 Micrófono de solapa
+
+<ins>4. Ejemplos comerciales</ins>
+Cintas Magnéticas
+
+LTO Ultrium 9
+
+Capacidad de hasta 18 TB
+
+Uso empresarial para copias de seguridad
+
+Muy fiable y duradero
+
+DAT
+
+Usado para audio y respaldo
+
+Menor capacidad
+
+Económico y compacto
+
+Micrófonos
+
+Blue Yeti
+
+Conexión USB
+
+Alta calidad de sonido
+
+Ideal para grabación, clases y streaming
+
+Shure SM58
+
+Micrófono dinámico
+
+Muy resistente
+
+Uso profesional en conciertos y estudios
