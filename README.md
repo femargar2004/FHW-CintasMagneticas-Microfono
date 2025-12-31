@@ -8,7 +8,7 @@ Micrófono
 
 El micrófono es un periférico de entrada que convierte el sonido en señales eléctricas que el ordenador puede procesar.
 
-2. Características principales 
+<ins>2. Características principales</ns>
 
 <ins> Cintas Magneticas </ins>
 
@@ -32,3 +32,27 @@ Convierte sonido en señal eléctrica/digital
 Diferentes niveles de sensibilidad
 
 Puede ser analógico o digital
+
+3. Tipos
+
+<ins>Tipos de cintas magnéticas</ins>
+
+Cintas de audio (casete)
+
+Cintas de video (VHS)
+
+Cintas de datos (DAT, LTO)
+
+Cintas de respaldo empresarial
+
+<ins>Tipos de micrófonos</ins>
+
+Micrófono dinámico
+
+Micrófono de condensador
+
+Micrófono USB
+
+Micrófono inalámbrico
+
+Micrófono de solapa
