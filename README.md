@@ -116,3 +116,7 @@ Nombre del estudiante: Félix Martín García
 Asignatura: Fundamentos Hardware
 
 Fecha: 31/12/2025
+
+LICENCIA
+
+Este trabajo tiene la licencia Creative Commons Atribución–No Comercial–Compartir Igual (CC BY-NC-SA 4.0).
