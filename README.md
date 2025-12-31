@@ -1,5 +1,4 @@
-TRABAJO SOBRE PERIFÉRICOS
-Cintas Magnéticas y Micrófono
+TRABAJO SOBRE PERIFÉRICOS: Cintas Magnéticas y Micrófono
 
 Cintas Magnéticas:
 
