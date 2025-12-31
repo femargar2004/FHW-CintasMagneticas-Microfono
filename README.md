@@ -10,7 +10,7 @@ El micrófono es un periférico de entrada que convierte el sonido en señales e
 
 2. Características principales 
 
-Cintas magnéticas
+<u> Cintas Magneticas </u>
 
 Almacenamiento secundario
 
