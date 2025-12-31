@@ -97,6 +97,6 @@ Uso profesional en conciertos y estudios
 
 5. Conclusiones
 
-Las *cintas magnéticas* siguen siendo una solución eficaz para el almacenamiento masivo y copias de seguridad, especialmente en entornos profesionales.
-El *micrófono*, por su parte, es un periférico fundamental para la comunicación, educación y creación de contenido, siendo ampliamente utilizado tanto a nivel doméstico como profesional.
+Las _cintas magnéticas_ siguen siendo una solución eficaz para el almacenamiento masivo y copias de seguridad, especialmente en entornos profesionales.
+El _micrófono_, por su parte, es un periférico fundamental para la comunicación, educación y creación de contenido, siendo ampliamente utilizado tanto a nivel doméstico como profesional.
 Ambos periféricos cumplen funciones esenciales dentro de los sistemas informáticos.
