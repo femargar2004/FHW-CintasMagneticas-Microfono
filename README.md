@@ -7,3 +7,26 @@ Las cintas magnéticas son periféricos de almacenamiento que guardan informaci�
 Micrófono
 
 El micrófono es un periférico de entrada que convierte el sonido en señales eléctricas que el ordenador puede procesar.
+
+2. Características principales
+Cintas Magnéticas
+
+Almacenamiento secuencial
+
+Gran capacidad
+
+Bajo coste por GB
+
+Acceso lento
+
+Alta durabilidad
+
+Micrófono
+
+Captura sonido
+
+Analógico o digital
+
+Diferentes sensibilidades
+
+Uso personal y profesional
