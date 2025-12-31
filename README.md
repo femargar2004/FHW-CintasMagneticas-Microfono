@@ -10,7 +10,7 @@ El micrófono es un periférico de entrada que convierte el sonido en señales e
 
 <ins>2. Características principales</ns>
 
-<ins> Cintas Magneticas </ins>
+**<ins> Cintas Magneticas </ins>**
 
 Almacenamiento secundario
 
@@ -23,7 +23,7 @@ Bajo costo
 Alta durabilidad
 
 
-<ins>Micrófono</ins>
+**<ins>Micrófono</ins>**
 
 Periférico de entrada
 
@@ -35,7 +35,7 @@ Puede ser analógico o digital
 
 3. Tipos
 
-<ins>Tipos de cintas magnéticas</ins>
+**<ins>Tipos de cintas magnéticas</ins>**
 
 Cintas de audio (casete)
 
@@ -45,7 +45,7 @@ Cintas de datos (DAT, LTO)
 
 Cintas de respaldo empresarial
 
-<ins>Tipos de micrófonos</ins>
+**<ins>Tipos de micrófonos</ins>**
 
 Micrófono dinámico
 
@@ -59,7 +59,7 @@ Micrófono de solapa
 
 <ins>4. Ejemplos comerciales</ins>
 
-<ins>Cintas Magnéticas</ins>
+**<ins>Cintas Magnéticas</ins>**
 
 LTO Ultrium 9
 
@@ -77,7 +77,7 @@ Menor capacidad
 
 Económico y compacto
 
-<ins>Micrófonos</ins>
+**<ins>Micrófonos</ins>**
 
 Blue Yeti
 
@@ -97,6 +97,6 @@ Uso profesional en conciertos y estudios
 
 5. Conclusiones
 
-Las _cintas magnéticas_ siguen siendo una solución eficaz para el almacenamiento masivo y copias de seguridad, especialmente en entornos profesionales.
-El _micrófono_, por su parte, es un periférico fundamental para la comunicación, educación y creación de contenido, siendo ampliamente utilizado tanto a nivel doméstico como profesional.
+Las **cintas magnéticas** siguen siendo una solución eficaz para el almacenamiento masivo y copias de seguridad, especialmente en entornos profesionales.
+El **micrófono**, por su parte, es un periférico fundamental para la comunicación, educación y creación de contenido, siendo ampliamente utilizado tanto a nivel doméstico como profesional.
 Ambos periféricos cumplen funciones esenciales dentro de los sistemas informáticos.
