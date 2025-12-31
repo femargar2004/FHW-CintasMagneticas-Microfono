@@ -58,7 +58,8 @@ Micrófono inalámbrico
 Micrófono de solapa
 
 <ins>4. Ejemplos comerciales</ins>
-Cintas Magnéticas
+
+<ins>Cintas Magnéticas</ins>
 
 LTO Ultrium 9
 
@@ -76,7 +77,7 @@ Menor capacidad
 
 Económico y compacto
 
-Micrófonos
+<ins>Micrófonos</ins>
 
 Blue Yeti
 
