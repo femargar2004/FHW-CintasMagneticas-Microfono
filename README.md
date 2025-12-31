@@ -23,7 +23,7 @@ Bajo costo
 Alta durabilidad
 
 
-Micrófono
+<ins>Micrófono</ins>
 
 Periférico de entrada
 
