@@ -109,7 +109,7 @@ Stallings, W. Organización y arquitectura de computadores
 
 Documentación técnica de IBM, Shure y Logitech
 
-AUTORES
+**AUTORES**
 
 Nombre del estudiante: Félix Martín García
 
