@@ -108,3 +108,11 @@ Tanenbaum, A. Arquitectura de computadoras
 Stallings, W. Organización y arquitectura de computadores
 
 Documentación técnica de IBM, Shure y Logitech
+
+AUTORES
+
+Nombre del estudiante: Félix Martín García
+
+Asignatura: Fundamentos Hardware
+
+Fecha: 31/12/2025
